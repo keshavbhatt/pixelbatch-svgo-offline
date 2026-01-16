@@ -1,0 +1,40 @@
+0 verbose cli /home/commander/.nvm/versions/node/v20.19.0/bin/node /home/commander/.nvm/versions/node/v20.19.0/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.0
+3 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/LOL/.npmrc
+5 silly config load:file:/home/commander/.npmrc
+6 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--offline" "--cache" "/tmp/LOL/npm-cache" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:/tmp/LOL/npm-cache/_logs/2026-01-16T08_34_59_916Z-
+10 verbose logfile /tmp/LOL/npm-cache/_logs/2026-01-16T08_34_59_916Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 silly ADD node_modules/svgo
+16 silly ADD node_modules/source-map-js
+17 silly ADD node_modules/picocolors
+18 silly ADD node_modules/nth-check
+19 silly ADD node_modules/mdn-data
+20 silly ADD node_modules/entities
+21 silly ADD node_modules/domutils
+22 silly ADD node_modules/domhandler
+23 silly ADD node_modules/domelementtype
+24 silly ADD node_modules/dom-serializer
+25 silly ADD node_modules/csso
+26 silly ADD node_modules/csso/node_modules/mdn-data
+27 silly ADD node_modules/csso/node_modules/css-tree
+28 silly ADD node_modules/css-what
+29 silly ADD node_modules/css-tree
+30 silly ADD node_modules/css-select
+31 silly ADD node_modules/commander
+32 silly ADD node_modules/boolbase
+33 silly ADD node_modules/@trysound/sax
+34 verbose cwd /tmp/LOL
+35 verbose os Linux 6.12.57-1-lts
+36 verbose node v20.19.0
+37 verbose npm  v10.8.2
+38 verbose exit 0
+39 info ok

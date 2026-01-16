@@ -1,0 +1,19 @@
+{
+  "name": "pixelbatch-svgo",
+  "version": "1.0.0",
+  "description": "SVGO dependency for PixelBatch",
+  "private": true,
+
+  "type": "module",
+
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  },
+
+  "dependencies": {
+    "svgo": "^3.0.0"
+  },
+
+  "license": "UNLICENSED"
+}

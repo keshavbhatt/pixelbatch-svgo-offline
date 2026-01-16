@@ -1,0 +1,67 @@
+0 verbose cli /home/commander/.nvm/versions/node/v20.19.0/bin/node /home/commander/.nvm/versions/node/v20.19.0/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.0
+3 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/LOL/.npmrc
+5 silly config load:file:/home/commander/.npmrc
+6 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--offline" "--cache" "/tmp/LOL/npm-cache" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:/tmp/LOL/npm-cache/_logs/2026-01-16T08_34_21_725Z-
+10 verbose logfile /tmp/LOL/npm-cache/_logs/2026-01-16T08_34_21_725Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 silly tarball no local data for source-map-js@https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz. Extracting by manifest.
+16 silly tarball no local data for svgo@https://registry.npmjs.org/svgo/-/svgo-3.3.2.tgz. Extracting by manifest.
+17 silly tarball no local data for picocolors@https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz. Extracting by manifest.
+18 silly tarball no local data for nth-check@https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz. Extracting by manifest.
+19 silly tarball no local data for mdn-data@https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.30.tgz. Extracting by manifest.
+20 silly tarball no local data for entities@https://registry.npmjs.org/entities/-/entities-4.5.0.tgz. Extracting by manifest.
+21 silly tarball no local data for domutils@https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz. Extracting by manifest.
+22 silly tarball no local data for domhandler@https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz. Extracting by manifest.
+23 silly tarball no local data for domelementtype@https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz. Extracting by manifest.
+24 silly tarball no local data for csso@https://registry.npmjs.org/csso/-/csso-5.0.5.tgz. Extracting by manifest.
+25 silly tarball no local data for css-what@https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz. Extracting by manifest.
+26 silly tarball no local data for css-tree@https://registry.npmjs.org/css-tree/-/css-tree-2.3.1.tgz. Extracting by manifest.
+27 silly tarball no local data for css-select@https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz. Extracting by manifest.
+28 silly tarball no local data for commander@https://registry.npmjs.org/commander/-/commander-7.2.0.tgz. Extracting by manifest.
+29 silly tarball no local data for boolbase@https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz. Extracting by manifest.
+30 silly tarball no local data for dom-serializer@https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz. Extracting by manifest.
+31 silly tarball no local data for @trysound/sax@https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz. Extracting by manifest.
+32 silly tarball no local data for mdn-data@https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.28.tgz. Extracting by manifest.
+33 silly tarball no local data for css-tree@https://registry.npmjs.org/css-tree/-/css-tree-2.2.1.tgz. Extracting by manifest.
+34 verbose stack Error: request to https://registry.npmjs.org/svgo/-/svgo-3.3.2.tgz failed: cache mode is 'only-if-cached' but no cached response is available.
+34 verbose stack     at cacheFetch (/home/commander/.nvm/versions/node/v20.19.0/lib/node_modules/npm/node_modules/make-fetch-happen/lib/cache/index.js:12:13)
+34 verbose stack     at async fetch (/home/commander/.nvm/versions/node/v20.19.0/lib/node_modules/npm/node_modules/make-fetch-happen/lib/fetch.js:98:7)
+35 error code ENOTCACHED
+36 error request to https://registry.npmjs.org/svgo/-/svgo-3.3.2.tgz failed: cache mode is 'only-if-cached' but no cached response is available.
+37 silly unfinished npm timer reify 1768552461935
+38 silly unfinished npm timer reify:unpack 1768552462005
+39 silly unfinished npm timer reifyNode:node_modules/svgo 1768552462006
+40 silly unfinished npm timer reifyNode:node_modules/source-map-js 1768552462006
+41 silly unfinished npm timer reifyNode:node_modules/picocolors 1768552462006
+42 silly unfinished npm timer reifyNode:node_modules/nth-check 1768552462006
+43 silly unfinished npm timer reifyNode:node_modules/mdn-data 1768552462006
+44 silly unfinished npm timer reifyNode:node_modules/entities 1768552462006
+45 silly unfinished npm timer reifyNode:node_modules/domutils 1768552462006
+46 silly unfinished npm timer reifyNode:node_modules/domhandler 1768552462006
+47 silly unfinished npm timer reifyNode:node_modules/domelementtype 1768552462006
+48 silly unfinished npm timer reifyNode:node_modules/dom-serializer 1768552462006
+49 silly unfinished npm timer reifyNode:node_modules/csso 1768552462006
+50 silly unfinished npm timer reifyNode:node_modules/csso/node_modules/mdn-data 1768552462006
+51 silly unfinished npm timer reifyNode:node_modules/csso/node_modules/css-tree 1768552462006
+52 silly unfinished npm timer reifyNode:node_modules/css-what 1768552462006
+53 silly unfinished npm timer reifyNode:node_modules/css-tree 1768552462006
+54 silly unfinished npm timer reifyNode:node_modules/css-select 1768552462006
+55 silly unfinished npm timer reifyNode:node_modules/commander 1768552462006
+56 silly unfinished npm timer reifyNode:node_modules/boolbase 1768552462006
+57 silly unfinished npm timer reifyNode:node_modules/@trysound/sax 1768552462006
+58 verbose cwd /tmp/LOL
+59 verbose os Linux 6.12.57-1-lts
+60 verbose node v20.19.0
+61 verbose npm  v10.8.2
+62 verbose exit 1
+63 verbose code 1
+64 error A complete log of this run can be found in: /tmp/LOL/npm-cache/_logs/2026-01-16T08_34_21_725Z-debug-0.log

@@ -1,0 +1,78 @@
+0 verbose cli /home/commander/.nvm/versions/node/v20.19.0/bin/node /home/commander/.nvm/versions/node/v20.19.0/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.19.0
+3 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/LOL/.npmrc
+5 silly config load:file:/home/commander/.npmrc
+6 silly config load:file:/home/commander/.nvm/versions/node/v20.19.0/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" "/tmp/LOL/npm-cache" "--prefer-offline" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:/tmp/LOL/npm-cache/_logs/2026-01-16T08_34_39_047Z-
+10 verbose logfile /tmp/LOL/npm-cache/_logs/2026-01-16T08_34_39_047Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 silly tarball no local data for svgo@https://registry.npmjs.org/svgo/-/svgo-3.3.2.tgz. Extracting by manifest.
+16 silly tarball no local data for nth-check@https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz. Extracting by manifest.
+17 silly tarball no local data for picocolors@https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz. Extracting by manifest.
+18 silly tarball no local data for entities@https://registry.npmjs.org/entities/-/entities-4.5.0.tgz. Extracting by manifest.
+19 silly tarball no local data for mdn-data@https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.30.tgz. Extracting by manifest.
+20 silly tarball no local data for source-map-js@https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz. Extracting by manifest.
+21 silly tarball no local data for domutils@https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz. Extracting by manifest.
+22 silly tarball no local data for domhandler@https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz. Extracting by manifest.
+23 silly tarball no local data for domelementtype@https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz. Extracting by manifest.
+24 silly tarball no local data for css-what@https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz. Extracting by manifest.
+25 silly tarball no local data for css-tree@https://registry.npmjs.org/css-tree/-/css-tree-2.3.1.tgz. Extracting by manifest.
+26 silly tarball no local data for csso@https://registry.npmjs.org/csso/-/csso-5.0.5.tgz. Extracting by manifest.
+27 silly tarball no local data for css-select@https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz. Extracting by manifest.
+28 silly tarball no local data for commander@https://registry.npmjs.org/commander/-/commander-7.2.0.tgz. Extracting by manifest.
+29 silly tarball no local data for dom-serializer@https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz. Extracting by manifest.
+30 silly tarball no local data for @trysound/sax@https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz. Extracting by manifest.
+31 silly tarball no local data for css-tree@https://registry.npmjs.org/css-tree/-/css-tree-2.2.1.tgz. Extracting by manifest.
+32 silly tarball no local data for mdn-data@https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.28.tgz. Extracting by manifest.
+33 silly tarball no local data for boolbase@https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz. Extracting by manifest.
+34 http fetch GET 200 https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz 368ms (cache miss)
+35 http fetch GET 200 https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz 441ms (cache miss)
+36 http fetch GET 200 https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz 440ms (cache miss)
+37 http fetch GET 200 https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz 441ms (cache miss)
+38 http fetch GET 200 https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz 465ms (cache miss)
+39 http fetch GET 200 https://registry.npmjs.org/@trysound/sax/-/sax-0.2.0.tgz 464ms (cache miss)
+40 http fetch GET 200 https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz 475ms (cache miss)
+41 http fetch GET 200 https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.30.tgz 487ms (cache miss)
+42 http fetch GET 200 https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz 487ms (cache miss)
+43 http fetch GET 200 https://registry.npmjs.org/commander/-/commander-7.2.0.tgz 488ms (cache miss)
+44 http fetch GET 200 https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz 495ms (cache miss)
+45 http fetch GET 200 https://registry.npmjs.org/entities/-/entities-4.5.0.tgz 515ms (cache miss)
+46 http fetch GET 200 https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz 522ms (cache miss)
+47 http fetch GET 200 https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.28.tgz 558ms (cache miss)
+48 http fetch GET 200 https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz 574ms (cache miss)
+49 http fetch GET 200 https://registry.npmjs.org/csso/-/csso-5.0.5.tgz 585ms (cache miss)
+50 http fetch GET 200 https://registry.npmjs.org/svgo/-/svgo-3.3.2.tgz 605ms (cache miss)
+51 http fetch GET 200 https://registry.npmjs.org/css-tree/-/css-tree-2.3.1.tgz 646ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/css-tree/-/css-tree-2.2.1.tgz 642ms (cache miss)
+53 silly ADD node_modules/svgo
+54 silly ADD node_modules/source-map-js
+55 silly ADD node_modules/picocolors
+56 silly ADD node_modules/nth-check
+57 silly ADD node_modules/mdn-data
+58 silly ADD node_modules/entities
+59 silly ADD node_modules/domutils
+60 silly ADD node_modules/domhandler
+61 silly ADD node_modules/domelementtype
+62 silly ADD node_modules/dom-serializer
+63 silly ADD node_modules/csso
+64 silly ADD node_modules/csso/node_modules/mdn-data
+65 silly ADD node_modules/csso/node_modules/css-tree
+66 silly ADD node_modules/css-what
+67 silly ADD node_modules/css-tree
+68 silly ADD node_modules/css-select
+69 silly ADD node_modules/commander
+70 silly ADD node_modules/boolbase
+71 silly ADD node_modules/@trysound/sax
+72 verbose cwd /tmp/LOL
+73 verbose os Linux 6.12.57-1-lts
+74 verbose node v20.19.0
+75 verbose npm  v10.8.2
+76 verbose exit 0
+77 info ok
