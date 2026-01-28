@@ -1,5 +1,7 @@
 ## pixelbatch-svgo-offline
 
+used by https://flathub.org/en/apps/com.ktechpit.pixelbatch
+
 Remove everything keeping only package.json and README.md
 
 1. Run to create npm cache in npm-cache directory: 
